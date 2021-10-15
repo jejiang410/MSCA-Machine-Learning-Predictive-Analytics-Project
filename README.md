@@ -1,7 +1,7 @@
 # MSCA-Machine-Learning-Predictive-Analytics-Project
 This repository contains information on MSCA Machine Learning Predictive Analytics team project at University of Chicago
 
-Professor: Dr. Arnab Bose
+Professor: Arnab Bose
 
 # Team
 Amily Huang: yunh@uchicago.edu
@@ -34,20 +34,15 @@ Home Credit Default Risk (https://www.kaggle.com/c/home-credit-default-risk/data
 
 ### 3. Model Building
 - Support Vector Machine
-
 - Random Forest
-
 - XGBoost
-
 - ANN
 
 ### 4. Model Evaluation
 - AUC
-
 - Recall
 
 # Structure of the repository
-Raw Code: This folder includes the Python code for machine learning models
-
-Final Presentation: This folder contains the final presentation
+- Raw Code: This folder includes the Python code for machine learning models
+- Final Presentation: This folder contains the final presentation
 
