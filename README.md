@@ -12,6 +12,9 @@ Bharadwaj Kacharla: bharadwajk@uchicago.edu
 
 Duo Zhou: zd0009@uchicago.edu
 
+# Structure of the repository
+- Raw Code: This folder includes the Python code for explanatory data analysis, feature engineering, and machine learning models
+- Final Presentation: This folder contains the final presentation
 
 # Project Description
 In this project, we built several machine learning models and deep learning model to make default predictions given certain characteristics of a credit applicant and help loan company Home Credit to minimize default risk.
@@ -41,8 +44,4 @@ Home Credit Default Risk (https://www.kaggle.com/c/home-credit-default-risk/data
 ### 4. Model Evaluation
 - AUC
 - Recall
-
-# Structure of the repository
-- Raw Code: This folder includes the Python code for machine learning models
-- Final Presentation: This folder contains the final presentation
 
